@@ -105,8 +105,8 @@ id: Mayotte
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Mayotte//
-markerFolder: ./Mayotte//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Mayotte] 
