@@ -124,10 +124,4 @@ Capital :: [[Mamoudzou]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mayotte|Mayotte]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Mayotte.internal|Mayotte.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Mayotte.protect|Mayotte.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Mayotte.private|Mayotte.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Mayotte.personal|Mayotte.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Mayotte.secret|Mayotte.secret]] 
+

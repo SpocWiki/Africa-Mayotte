@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-12.78056,45.22778] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mayotte/City/Mamoudzou|Mamoudzou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mayotte/City/Mamoudzou.public|Mamoudzou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mayotte/City/Mamoudzou.internal|Mamoudzou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mayotte/City/Mamoudzou.protect|Mamoudzou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mayotte/City/Mamoudzou.private|Mamoudzou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mayotte/City/Mamoudzou.personal|Mamoudzou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mayotte/City/Mamoudzou.secret|Mamoudzou.secret]] 
+
+### #is_/same_as :: [Mamoudzou](/_Standards/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.md) 
+
+### #is_/same_as :: [Mamoudzou.public](/_public/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.public.md) 
+
+### #is_/same_as :: [Mamoudzou.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.internal.md) 
+
+### #is_/same_as :: [Mamoudzou.protect](/_protect/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.protect.md) 
+
+### #is_/same_as :: [Mamoudzou.private](/_private/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.private.md) 
+
+### #is_/same_as :: [Mamoudzou.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.personal.md) 
+
+### #is_/same_as :: [Mamoudzou.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.secret.md)
+
