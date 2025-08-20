@@ -1,33 +1,34 @@
 ---
 location:
-- -12.7806
-- 45.2278
+  - -12.7806
+  - 45.2278
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27060
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Mayotte
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Mayotte
-- جزيرة مايوت
-- 马约特
-- Острове Майотта
-- 
+  - Mayotte
+  - جزيرة مايوت
+  - 马约特
+  - Острове Майотта
+  - 
 Languages:
-- fr-YT
+  - fr-YT
 ---
 
 
