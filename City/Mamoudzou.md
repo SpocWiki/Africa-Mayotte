@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mamoudzou](/_Standards/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou|Mamoudzou]] 
 
-### #is_/same_as :: [Mamoudzou.public](/_public/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.public|Mamoudzou.public]] 
 
-### #is_/same_as :: [Mamoudzou.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.internal|Mamoudzou.internal]] 
 
-### #is_/same_as :: [Mamoudzou.protect](/_protect/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.protect|Mamoudzou.protect]] 
 
-### #is_/same_as :: [Mamoudzou.private](/_private/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.private|Mamoudzou.private]] 
 
-### #is_/same_as :: [Mamoudzou.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.personal|Mamoudzou.personal]] 
 
-### #is_/same_as :: [Mamoudzou.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mayotte/City/Mamoudzou.secret|Mamoudzou.secret]] 
 
