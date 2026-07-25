@@ -49,7 +49,7 @@ dv_has_name_cn: 马约特
 dv_has_name_ar: جزيرة مايوت
 dv_has_name_ru: Острове Майотта
 dv_CLDR_display_name: Mayotte
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Eastern Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -74,9 +74,9 @@ dv_ISO3: MYT
 dv_has_name_de: Mayotte
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_Capital: "[[Mamoudzou]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 45.2278
 dv_has_place_latitude: -12.7806
 dv_is_:
@@ -105,7 +105,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Mayotte/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -192,7 +192,7 @@ markerFile: [[Mayotte]]
 
 ```leaflet
 id: Mayotte_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
